@@ -1,0 +1,86 @@
+solid AngleBracket
+  facet normal 0 0 0
+    outer loop
+      vertex 10 0 10
+      vertex 60 0 10
+      vertex 60 10 10
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 0 10
+      vertex 60 10 10
+      vertex 10 10 10
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 0 60
+      vertex 60 0 60
+      vertex 60 10 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 0 60
+      vertex 60 10 60
+      vertex 10 10 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 0 10
+      vertex 60 0 10
+      vertex 60 0 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 0 10
+      vertex 60 0 60
+      vertex 10 0 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 0 10
+      vertex 60 10 10
+      vertex 60 10 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 0 10
+      vertex 60 10 60
+      vertex 60 0 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 10 10
+      vertex 10 10 10
+      vertex 10 10 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 10 10
+      vertex 10 10 60
+      vertex 60 10 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 10 10
+      vertex 10 0 10
+      vertex 10 0 60
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 10 10 10
+      vertex 10 0 60
+      vertex 10 10 60
+    endloop
+  endfacet
+endsolid AngleBracket

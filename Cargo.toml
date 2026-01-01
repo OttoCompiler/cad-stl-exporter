@@ -1,0 +1,12 @@
+[package]
+name = "rust_cad_lib"
+version = "0.1.0"
+edition = "2021"
+description = "A lightweight industry-standard CAD kernel and STL exporter"
+
+[dependencies]
+nalgebra = "0.32"
+rayon = "1.8"
+
+[dev-dependencies]
+approx = "0.5"
